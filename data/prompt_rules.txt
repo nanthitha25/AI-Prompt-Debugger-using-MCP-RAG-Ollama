@@ -1,0 +1,8 @@
+Rule 1: Prompts should specify an output format (e.g., bullet points, JSON, plain text).
+Rule 2: Prompts should define context or background information to ground the response.
+Rule 3: Prompts should avoid ambiguity and use precise, clear language.
+Rule 4: Prompts should include role instructions (e.g., 'Act as an expert in...').
+Rule 5: Prompts should specify constraints or exclusions (e.g., 'Under 200 words', 'Do not use jargon').
+Rule 6: Structure prompts with clear headings or delimiters for different sections.
+Rule 7: State the target audience for the output (e.g., 'Explain to a 5-year-old', 'For senior developers').
+Rule 8: Provide examples within the prompt (few-shot prompting) to guide the model's output style.

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# JavaScript/React
+node_modules/
+dist/
+dist-ssr/
+*.local
+.npm
+.eslintcache
+
+# AI/Data
+chroma_db/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
