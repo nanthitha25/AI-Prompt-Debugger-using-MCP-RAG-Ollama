@@ -66,4 +66,3 @@ Visit `http://localhost:5173` to start debugging your prompts!
 
 ---
 
-Created with ❤️ by Antigravity (Powered by Google Deepmind)
